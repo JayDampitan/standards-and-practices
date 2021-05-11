@@ -87,7 +87,7 @@ Issue will be assigned to Point of Contact
 2. PM/Lead Dev can generate new issues for discovered problems.
 a. Issue will be labeled with “Pending” and “QA Sprint”
 b. Issue will be assigned to relevant milestone and project board
-c. Issue will be assigned to Point of Contact
+c. Issue will be assigned to Point of Contacts
 
   ![project board columns](./assets/qa-process/5.png)
 
